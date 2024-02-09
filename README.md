@@ -1,4 +1,2 @@
-# Automationteststore
- EcommerceAutomationCode
-# test3
- # test5
+Run the file testrunner - as Junit Test
+Location of Test Runner file :
